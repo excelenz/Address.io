@@ -1,6 +1,6 @@
 ![Logo](/app/src/addressio.png)
 
-This project is built with React, and uses a Flask Server as a Rest API to store the 
+This project is built with React, and uses a Flask Server as a REST API to store the 
 data in a locally stored SQLlite database.
 
 The user can add, edit, and remove people to the address book. They can also add, edit, and remove organisations. 
@@ -12,7 +12,7 @@ Here are the steps to getting this up and running.
 
 ### Instructions:
 
-After cloning the repo, you will need to set up both a Flask Server that will be running for the Rest API, and you'll need to set up 
+After cloning the repo, you will need to set up both a Flask Server that will be running for the REST API, and you'll need to set up 
 a live server for React. You will need to have Python, pip, and npm installed on your PC.
 
 ##### Setting up Flask Server:
