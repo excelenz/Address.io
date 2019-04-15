@@ -1,4 +1,5 @@
 # Address.io
+![Logo](/app/src/addressio.png)
 
 This project is built with React, and uses a Flask Server as a Rest API to store the 
 data in a locally stored SQLlite database.
@@ -6,7 +7,6 @@ data in a locally stored SQLlite database.
 The user can add, edit, and remove people to the address book. They can also add, edit, and remove organisations. 
 They are also able to optionally assign each person to an organisation.
 
-[Imgur](https://i.imgur.com/2PySKnE.png)
 
 Here are the steps to getting this up and running. 
 
