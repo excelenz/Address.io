@@ -1,4 +1,3 @@
-# Address.io
 ![Logo](/app/src/addressio.png)
 
 This project is built with React, and uses a Flask Server as a Rest API to store the 
