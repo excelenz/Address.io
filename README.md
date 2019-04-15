@@ -6,6 +6,7 @@ data in a locally stored SQLlite database.
 The user can add, edit, and remove people to the address book. They can also add, edit, and remove organisations. 
 They are also able to optionally assign each person to an organisation.
 
+![Screenshot](https://user-images.githubusercontent.com/34189022/56148011-501d9480-5fa1-11e9-9a8c-43fcaf48c5ce.PNG)
 
 Here are the steps to getting this up and running. 
 
