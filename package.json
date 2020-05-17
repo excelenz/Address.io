@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/excelenz/Address.io/issues"
   },
-  "homepage": "https://github.com/excelenz/Address.io#readme"
+  "homepage": "https://github.com/excelenz/Address.io#readme",
+  "scripts": {
+    "start": "node app.package.json"
+  }
 }
